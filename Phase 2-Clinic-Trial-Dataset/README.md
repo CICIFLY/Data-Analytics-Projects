@@ -14,5 +14,5 @@ These issues impact quality of care, patient registration, and revenue.
 * The patients in this dataset were created using this fake name generator and do not include real names, 
 addresses, phone numbers, emails, etc.
 
-# library need to be installed :
+# Library need to be installed :
 * pandas
