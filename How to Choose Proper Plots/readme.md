@@ -9,3 +9,5 @@ BiVariates :
     numeric vs numeric : scatterplot 
     numeric vs categorical : violin and box plot
     categorical vs categorical : clustered bar chart 
+
+
