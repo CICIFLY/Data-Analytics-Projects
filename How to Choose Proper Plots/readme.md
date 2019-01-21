@@ -4,7 +4,8 @@
 # How to decide which plot to use ?
 UniVariates:
     
-    bar chart for categorical (qualitative) and histogram for quantitative (numeric)
+    categorical (qualitative) : bar chart
+    quantitative (numeric) : histogram  
 
 BiVariates :
     
