@@ -1,4 +1,4 @@
-# This folder would contains different types of plots practice. 
+# This folder contains different types of plots practice. 
 # Two visualization libraries :
   matplotlib  and seaborn 
 # How to decide which plot to use ?
