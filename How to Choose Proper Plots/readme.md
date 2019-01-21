@@ -6,8 +6,10 @@ UniVariates:
     bar chart for categorical (qualitative) and histogram for quantitative (numeric)
 
 BiVariates :
-    numeric vs numeric : scatterplot 
+    numeric vs numeric : scatterplot
+
     numeric vs categorical : violin and box plot
+
     categorical vs categorical : clustered bar chart 
 
 
