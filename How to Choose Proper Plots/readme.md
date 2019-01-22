@@ -1,6 +1,21 @@
 # This folder contains different types of plots practice. 
 # Two visualization libraries :
   matplotlib  and seaborn 
+# Plot Types:
+  scatter plots 
+  
+  clustered bar char
+  
+  heat maps
+  
+  violin and box plot
+  
+  faceting
+  
+  bar charts and line plots
+  
+  
+  
 # How to decide which plot to use ?
 UniVariates:
     
