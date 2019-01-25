@@ -27,6 +27,8 @@ BiVariates :
     numeric vs numeric : scatterplot
 
     numeric vs categorical : violin and box plot
+        to use a violin plot if you have a lot of data and the distributions are meaningful, 
+        to use a box plot or bar chart if you have less data, or the distributions are less reliable
 
     categorical vs categorical : clustered bar chart 
 
