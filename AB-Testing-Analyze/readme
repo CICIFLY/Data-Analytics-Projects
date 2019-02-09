@@ -12,6 +12,8 @@ Assessed the data, and made decisions about dealing with duplicates, and mismatc
 Performed probability computations, hypothesis testing and logistic regression on the data using Pandas, Numpy, and the statsmodels module in Python.
 Made recommendations backed by statistical inferences for deciding the web page version and documented limitations of the analysis
 
+# For some reason, the heading does not render
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
+
