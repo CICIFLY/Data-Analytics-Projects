@@ -7,7 +7,7 @@ Tips: For data science projects with python, I would recomend you to install num
 
 
 
-Part 1 - Intro to Data Analysis
+## Part 1 - Intro to Data Analysis
 
 Subjects Covered:
 * Anaconda: Learn to use Anaconda to manage packages and environments for use with Python
@@ -23,7 +23,7 @@ I complete the entire data analysis process, starting by posing a question and f
 
 
 
-Unit 2 -Practical Statistics 
+## Part 2 -Practical Statistics 
 
 Subjects Covered:
 * Probability
@@ -47,7 +47,7 @@ statistical techniques to answer questions about the data and report my conclusi
 
 
 
-Unit 3 - Data Extraction and Wrangling
+## Part 3 - Data Extraction and Wrangling
 
 Subjects Covered:
 * GATHERING DATA: 
@@ -68,7 +68,7 @@ Using Python, I gathered data from a variety of sources, assess its quality and 
 
 
 
-Unit 4 - Data Visualisation
+## Part 4 - Data Visualisation
 
 Subjects Covered:
 * Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales ) 
