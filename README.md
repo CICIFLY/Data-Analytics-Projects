@@ -51,17 +51,17 @@ statistical techniques to answer questions about the data and report my conclusi
 
 Subjects Covered:
 * GATHERING DATA: 
-   ➔ Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
-   ➔ Import data of various file formats into pandas, including flat files (e.g. TSV), HTML files, TXT files, and JSON files
-   ➔ Store gathered data in a PostgreSQL database
+   * Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
+   * Import data of various file formats into pandas, including flat files (e.g. TSV), HTML files, TXT files, and JSON files
+   * Store gathered data in a PostgreSQL database
 * ASSESSING DATA 
-   ➔ Assess data visually and programmatically using pandas
-   ➔ Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
-   ➔ Identify data quality issues and categorize them using metrics: validity, accuracy, completeness, consistency, and uniformity
+   * Assess data visually and programmatically using pandas
+   * Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
+   * Identify data quality issues and categorize them using metrics: validity, accuracy, completeness, consistency, and uniformity
 * CLEANING DATA 
-   ➔ Identify each step of the data cleaning process (defining, coding,and testing)
-   ➔ Clean data using Python and pandas
-   ➔ Test cleaning code visually and programmatically using Python
+   * Identify each step of the data cleaning process (defining, coding,and testing)
+   * Clean data using Python and pandas
+   * Test cleaning code visually and programmatically using Python
 
 Projects : Wrangle and Analyze Data
 Using Python, I gathered data from a variety of sources, assess its quality and tidiness, then clean it. I documented the wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
@@ -78,7 +78,8 @@ Subjects Covered:
 
 Project:
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
-
+In this project, I used Python’s data visualization tools to systematically explore a selected dataset for
+its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
 
 
