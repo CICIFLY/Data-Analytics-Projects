@@ -76,9 +76,9 @@ Subjects Covered:
 * Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
 * Explanatory Visulizations ( story telling with data ,  polish plots , create slide deck ) 
 
-Project 1: 
+* Project 1: 
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
-Project 2: 
+* Project 2: 
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
