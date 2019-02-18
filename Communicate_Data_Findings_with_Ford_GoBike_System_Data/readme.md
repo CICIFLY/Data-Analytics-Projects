@@ -1,11 +1,11 @@
-# Project Table of Contents
-## Introduction of the topic and dataset
-## Dataset Investigation and preliminary wrangling
-## Further Data Wrangling
-## Univariate Exploration and Analysis
-## Bivariate Exploration and Analysis
-## Multivariate Exploration and Analysis
-## Conclusions and answers
+# Project Table of Contents : 
+* Introduction of the topic and dataset
+* Dataset Investigation and preliminary wrangling
+* Further Data Wrangling
+* Univariate Exploration and Analysis
+* Bivariate Exploration and Analysis
+* Multivariate Exploration and Analysis
+* Conclusions and answers
 
 
 
