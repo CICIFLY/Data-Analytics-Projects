@@ -1,6 +1,7 @@
 # Data set Overview and Notes
-data source :
+Data source :
 Ford GoBike System Data : https://www.fordgobike.com/system-data
+
 includes:
 Trip Duration (seconds)
 Start Time and Date
