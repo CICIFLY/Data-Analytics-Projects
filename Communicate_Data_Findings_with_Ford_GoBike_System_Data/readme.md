@@ -18,9 +18,9 @@ This data set includes information about individual rides made in a bike-sharing
 Trip Duration (seconds) , Start Time and Date , End Time and Date , Start Station ID , Start Station Name , Start Station Latitude , Start Station Longitude ,  End Station ID , End Station Name,  End Station Latitude , End Station Longitude , Bike ID , User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual) , Member Year of Birth, Member Gender
 
 ### Topics: 
-When are most trips taken in terms of time of day, day of the week, or month of the year?
-How long does the average trip take?
-Does the above depend on if a user is a subscriber or customer?
+1. How long does the average trip take?
+2. Is the trip duration affected by weather( months/seasons)
+3. Does the above depend on if a user is a subscriber or customer?
 
 
 
