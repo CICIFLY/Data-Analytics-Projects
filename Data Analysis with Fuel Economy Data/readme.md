@@ -1,3 +1,16 @@
+# Table of contents : 
+* Know Data Attributes
+* Ask Questions
+* Assessing Data
+* Clean Column Labels 
+* Filter, Drop Nulls, Dedupe
+* Inspect Data Types
+* Fixing Data Types
+* Exploring with Visuals
+* Merge Datasets 
+* Results with Merged Datasets 
+
+
 # What is Fuel Economy?
 Excerpt from Wikipedia page on Fuel Economy in Automobiles:
 The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount 
