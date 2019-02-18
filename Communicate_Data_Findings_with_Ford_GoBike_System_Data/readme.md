@@ -33,6 +33,6 @@ Trip Duration (seconds) , Start Time and Date , End Time and Date , Start Statio
 
 ### Summary of findings :
 Since the trip duration has a close relationship with bike share company's revenue, I tried to find out what are the key factors affect 
-trip duration. It turns out that Weather does not have a big effect on the trip duration but user type does have an impact on trip duration. According the analysis, I found subscribers tend to rend the bikes for longer trips ( generally above 300 minutes ) 
+trip duration. It turns out that Weather does not have a big effect on the trip duration but user type does have an impact on trip duration. According the analysis, I found subscribers tend to rend the bikes for longer trips ( generally above 300 minutes ). One possible way to increase revenue is to attract more potential customers and convert more exiting customers to subscribers.  
 
 
