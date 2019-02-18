@@ -76,6 +76,7 @@ Subjects Covered:
 
 Project 4: Wrangle and Analyze Data with clinic data 
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
+
 Project 5: Communicate data finding with Ford Go bike data
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
