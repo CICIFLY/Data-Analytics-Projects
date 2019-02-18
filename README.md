@@ -16,7 +16,7 @@ Subjects Covered:
 * NumPy for 1 and 2D Data
 * Pandas Series and Dataframes
 
-Project 1: Investigate A Dataset 
+Project 1: Explore Weather Trends with weather forecast data 
 In this project, I choose one of Udacity's curated datasets and investigate it using NumPy and pandas.
 I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. 
 ( It may be better to place this section inside the readme of the project 1) 
@@ -39,10 +39,8 @@ Subjects Covered:
 * Multiple Linear Regression
 * Logistic Regression
 
-Project:
-Analyze Experiment Results
 
-In this project, I was provided a dataset reflecting data collected from an experiment. I used
+Project 2: Investigate a dataset called TMDb movie data. I was provided a dataset reflecting data collected from an experiment. I used
 statistical techniques to answer questions about the data and report my conclusions and recommendations in a report.
 
 
@@ -63,7 +61,7 @@ Subjects Covered:
    * Clean data using Python and pandas
    * Test cleaning code visually and programmatically using Python
 
-Projects : Wrangle and Analyze Data
+Project 3 : Analyze A/B Test Results with company ab_data.csv to decide if the company should launch a new webpage or keep the old one. 
 Using Python, I gathered data from a variety of sources, assess its quality and tidiness, then clean it. I documented the wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
 
@@ -76,9 +74,9 @@ Subjects Covered:
 * Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
 * Explanatory Visulizations ( story telling with data ,  polish plots , create slide deck ) 
 
-* Project 1: 
+* Project 4.1: Wrangle and Analyze Data with clinic data 
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
-* Project 2: 
+* Project 4.2: Communicate data finding with Ford Go bike data
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
