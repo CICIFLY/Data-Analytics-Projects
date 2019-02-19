@@ -1,0 +1,795 @@
+model,displ,cyl,trans,drive,fuel,veh_class,air_pollution_score,city_mpg,hwy_mpg,cmb_mpg,greenhouse_gas_score,smartway
+ACURA RDX,3.5,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20,28,23,5,No
+ACURA RDX,3.5,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19,27,22,4,No
+ACURA TLX,2.4,4.0,AMS-8,2WD,Gasoline,small car,3,23,33,27,6,No
+ACURA TLX,3.5,6.0,SemiAuto-9,2WD,Gasoline,small car,3,20,32,24,5,No
+ACURA TLX,3.5,6.0,SemiAuto-9,4WD,Gasoline,small car,3,21,30,24,5,No
+ACURA TLX AWD A-SPEC,3.5,6.0,SemiAuto-9,4WD,Gasoline,small car,3,20,29,23,5,No
+ACURA TLX FWD A-SPEC,3.5,6.0,SemiAuto-9,2WD,Gasoline,small car,3,20,30,23,5,No
+ALFA ROMEO 4C,1.8,4.0,AutoMan-6,2WD,Gasoline,small car,1,24,34,28,6,No
+ALFA ROMEO Giulia,2.9,6.0,Auto-8,2WD,Gasoline,midsize car,3,17,24,20,4,No
+AUDI A3,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,24,31,27,6,No
+AUDI A3,2.0,4.0,AMS-7,2WD,Gasoline,small car,7,26,35,29,6,No
+AUDI A3 Cabriolet,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,22,30,25,5,No
+AUDI A3 Cabriolet,2.0,4.0,AMS-7,2WD,Gasoline,small car,7,25,33,28,6,No
+AUDI A4,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24,34,27,6,No
+AUDI A4,2.0,4.0,Man-6,4WD,Gasoline,small car,3,24,33,27,6,No
+AUDI A4 Ultra,2.0,4.0,AMS-7,2WD,Gasoline,small car,3,27,37,31,7,Yes
+AUDI A5,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24,34,27,6,No
+AUDI A5,2.0,4.0,Man-6,4WD,Gasoline,small car,3,24,33,27,6,No
+AUDI A5 Cabriolet,2.0,4.0,AMS-7,4WD,Gasoline,small car,5,24,34,27,6,No
+AUDI A5 Sportback quattro,2.0,4.0,AMS-7,4WD,Gasoline,midsize car,5,24,34,27,6,No
+AUDI A6,2.0,4.0,AMS-7,2WD,Gasoline,midsize car,5,25,34,28,6,No
+AUDI A6,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,22,31,26,5,No
+AUDI A6,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,3,20,29,23,5,No
+AUDI A7,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,3,20,29,23,5,No
+AUDI A8 L,3.0,6.0,SemiAuto-8,4WD,Gasoline,large car,3,19,29,22,4,No
+AUDI Q3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,3,20,28,23,5,No
+AUDI Q3,2.0,4.0,SemiAuto-6,4WD,Gasoline,small car,3,20,28,23,5,No
+AUDI Q5,2.0,4.0,SemiAuto-7,4WD,Gasoline,small SUV,3,23,27,25,5,No
+AUDI Q7,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,19,25,21,4,No
+AUDI Q7,3.0,6.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,19,25,21,4,No
+AUDI RS3,2.5,5.0,AMS-7,4WD,Gasoline,small car,3,19,28,22,4,No
+AUDI S3,2.0,4.0,AMS-7,4WD,Gasoline,small car,3,22,28,25,5,No
+AUDI S4,3.0,6.0,AMS-8,4WD,Gasoline,small car,5,21,30,24,5,No
+AUDI S5,3.0,6.0,AMS-8,4WD,Gasoline,small car,5,21,30,24,5,No
+AUDI S5 Cabriolet,3.0,6.0,AMS-8,4WD,Gasoline,small car,5,20,29,23,5,No
+AUDI S5 Sportback,3.0,6.0,AMS-8,4WD,Gasoline,midsize car,5,21,30,24,5,No
+AUDI SQ5,3.0,6.0,AMS-8,4WD,Gasoline,small SUV,5,19,24,21,4,No
+AUDI TT Coupe,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23,30,26,5,No
+AUDI TT RS,2.5,5.0,AMS-7,4WD,Gasoline,small car,3,19,29,22,4,No
+AUDI TT Roadster,2.0,4.0,AMS-6,4WD,Gasoline,small car,7,23,30,26,5,No
+AUDI TTS Coupe,2.0,4.0,AMS-6,4WD,Gasoline,small car,3,23,27,25,5,No
+AUDI allroad quattro,2.0,4.0,AMS-7,4WD,Gasoline,station wagon,5,22,30,25,5,No
+BENTLEY Bentayga,6.0,12.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,12,19,15,2,No
+BENTLEY Chiron,8.0,16.0,AMS-7,4WD,Gasoline,small car,1,9,14,11,1,No
+BMW 230i Convertible,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,24,34,27,6,No
+BMW 230i Coupe,2.0,4.0,Man-6,2WD,Gasoline,small car,7,21,32,25,5,No
+BMW 230i Coupe,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,24,35,28,6,No
+BMW 230i xDrive Convertible,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,6,No
+BMW 230i xDrive Coupe,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,24,33,27,6,No
+BMW 320i,2.0,4.0,Man-6,2WD,Gasoline,small car,3,23,35,27,6,No
+BMW 320i,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,3,24,35,28,6,No
+BMW 320i,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,23,34,27,6,No
+BMW 330e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,small car,3,28/66,34/78,30/71,10,Yes
+BMW 330i,2.0,4.0,Man-6,2WD,Gasoline,small car,7,21,32,25,5,No
+BMW 330i,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,24,34,27,6,No
+BMW 330i,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,6,No
+BMW 330i Gran Turismo,2.0,4.0,SemiAuto-8,4WD,Gasoline,large car,7,23,33,27,6,No
+BMW 330i Sports Wagon,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,7,23,33,27,6,No
+BMW 340i,3.0,6.0,Man-6,2WD,Gasoline,small car,3,19,29,23,5,No
+BMW 340i,3.0,6.0,Man-6,4WD,Gasoline,small car,3,19,29,23,5,No
+BMW 340i,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,21,32,25,5,No
+BMW 340i,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,21,31,25,5,No
+BMW 340i Gran Turismo,3.0,6.0,SemiAuto-8,4WD,Gasoline,large car,3,20,29,23,5,No
+BMW 430i Convertible,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,24,34,27,6,No
+BMW 430i Convertible,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,22,32,26,5,No
+BMW 430i Coupe,2.0,4.0,Man-6,2WD,Gasoline,small car,7,21,33,25,5,No
+BMW 430i Coupe,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,24,34,27,6,No
+BMW 430i Coupe,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,6,No
+BMW 430i Gran Coupe,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,24,34,27,6,No
+BMW 430i Gran Coupe,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,23,33,27,6,No
+BMW 440i Convertible,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,21,29,24,5,No
+BMW 440i Convertible,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,20,29,23,5,No
+BMW 440i Coupe,3.0,6.0,Man-6,2WD,Gasoline,small car,3,19,29,23,5,No
+BMW 440i Coupe,3.0,6.0,Man-6,4WD,Gasoline,small car,3,19,29,23,5,No
+BMW 440i Coupe,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,21,32,25,5,No
+BMW 440i Coupe,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,21,31,25,5,No
+BMW 440i Gran Coupe,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,21,32,25,5,No
+BMW 440i Gran Coupe,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,21,31,25,5,No
+BMW 530e,2.0,4.0,SemiAuto-8,2WD,Gasoline/Electricity,small car,7,27/70,31/75,29/72,10,Elite
+BMW 530e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,small car,7,27/66,31/68,28/67,10,Elite
+BMW 530i,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,24,34,27,6,No
+BMW 530i,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,7,23,33,27,6,No
+BMW 540i,3.0,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,21,30,24,5,No
+BMW 540i,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,20,29,23,5,No
+BMW 640i Convertible,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,20,29,23,5,No
+BMW 640i Convertible,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,19,28,22,4,No
+BMW 640i Gran Coupe,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,20,29,23,5,No
+BMW 640i Gran Coupe,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,19,28,22,4,No
+BMW 650i Convertible,4.4,8.0,SemiAuto-8,2WD,Gasoline,small car,3,17,25,20,4,No
+BMW 650i Convertible,4.4,8.0,SemiAuto-8,4WD,Gasoline,small car,3,16,25,19,3,No
+BMW 650i Gran Coupe,4.4,8.0,SemiAuto-8,2WD,Gasoline,small car,3,17,25,20,4,No
+BMW 650i Gran Coupe,4.4,8.0,SemiAuto-8,4WD,Gasoline,small car,3,16,25,19,3,No
+BMW 740e,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,large car,3,25/62,29/68,27/64,9,Yes
+BMW 740i,3.0,6.0,SemiAuto-8,2WD,Gasoline,large car,3,21,29,24,5,No
+BMW 740i,3.0,6.0,SemiAuto-8,4WD,Gasoline,large car,3,20,29,23,5,No
+BMW 750i,4.4,8.0,SemiAuto-8,2WD,Gasoline,large car,3,17,25,20,4,No
+BMW 750i,4.4,8.0,SemiAuto-8,4WD,Gasoline,large car,3,16,25,19,3,No
+BMW Alpina B6 Gran Coupe,4.4,8.0,SemiAuto-8,4WD,Gasoline,small car,3,16,25,19,3,No
+BMW Alpina B7,4.4,8.0,SemiAuto-8,4WD,Gasoline,large car,3,16,25,19,3,No
+BMW M2,3.0,6.0,AMS-7,2WD,Gasoline,small car,3,20,26,22,4,No
+BMW M2,3.0,6.0,Man-6,2WD,Gasoline,small car,3,18,26,21,4,No
+BMW M240i Convertible,3.0,6.0,Man-6,2WD,Gasoline,small car,3,18,27,22,4,No
+BMW M240i Convertible,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,21,30,24,5,No
+BMW M240i Convertible,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,21,30,24,5,No
+BMW M240i Coupe,3.0,6.0,Man-6,2WD,Gasoline,small car,3,19,28,22,4,No
+BMW M240i Coupe,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,3,21,30,24,5,No
+BMW M240i Coupe,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,3,21,30,24,5,No
+BMW M3,3.0,6.0,AMS-7,2WD,Gasoline,small car,3,17,24,20,4,No
+BMW M3,3.0,6.0,Man-6,2WD,Gasoline,small car,3,17,25,20,4,No
+BMW M4 Convertible,3.0,6.0,AMS-7,2WD,Gasoline,small car,3,16,22,19,3,No
+BMW M4 Convertible,3.0,6.0,Man-6,2WD,Gasoline,small car,3,17,25,20,4,No
+BMW M4 Coupe,3.0,6.0,AMS-7,2WD,Gasoline,small car,3,17,24,20,4,No
+BMW M4 Coupe,3.0,6.0,Man-6,2WD,Gasoline,small car,3,17,25,20,4,No
+BMW M4 DTM Champions Edition,3.0,6.0,AMS-7,2WD,Gasoline,small car,3,17,24,20,4,No
+BMW M550i,4.4,8.0,SemiAuto-8,4WD,Gasoline,midsize car,3,16,25,19,3,No
+BMW M6 Convertible,4.4,8.0,AMS-7,2WD,Gasoline,small car,1,14,20,16,2,No
+BMW M6 Convertible,4.4,8.0,Man-6,2WD,Gasoline,small car,1,15,22,17,3,No
+BMW M6 Gran Coupe,4.4,8.0,AMS-7,2WD,Gasoline,small car,1,14,20,16,2,No
+BMW M6 Gran Coupe,4.4,8.0,Man-6,2WD,Gasoline,small car,1,15,22,17,3,No
+BMW M760i xDrive,6.6,12.0,SemiAuto-8,4WD,Gasoline,large car,3,13,20,16,2,No
+BMW X1 sDrive28i,2.0,4.0,SemiAuto-8,2WD,Gasoline,large car,7,23,32,26,5,No
+BMW X1 xDrive28i,2.0,4.0,SemiAuto-8,4WD,Gasoline,large car,7,22,31,25,5,No
+BMW X4 M40i,3.0,6.0,SemiAuto-8,4WD,Gasoline,small SUV,3,18,25,21,4,No
+BMW X4 xDrive28i,2.0,4.0,SemiAuto-8,4WD,Gasoline,small SUV,3,20,28,23,5,No
+BUICK Encore,1.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,27,33,30,7,Yes
+BUICK Encore,1.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,26,31,28,6,No
+BUICK Encore,1.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,24,30,27,6,No
+BUICK Lacrosse,2.5,4.0,Auto-6,2WD,Gasoline,midsize car,5,25,35,29,6,No
+BUICK Lacrosse,3.6,6.0,SemiAuto-9,2WD,Gasoline,midsize car,5,21,30,24,5,No
+BUICK Lacrosse,3.6,6.0,SemiAuto-9,4WD,Gasoline,midsize car,5,20,29,23,5,No
+CADILLAC ATS,2.0,4.0,Man-6,2WD,Gasoline,small car,5,20,29,23,5,No
+CADILLAC ATS,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,5,22,31,25,5,No
+CADILLAC ATS,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,5,22,30,25,5,No
+CADILLAC ATS,3.6,6.0,SemiAuto-8,2WD,Gasoline,small car,5,20,30,24,5,No
+CADILLAC ATS,3.6,6.0,SemiAuto-8,4WD,Gasoline,small car,5,19,27,22,4,No
+CADILLAC ATS-V,3.6,6.0,Man-6,2WD,Gasoline,small car,3,16,23,19,3,No
+CADILLAC ATS-V,3.6,6.0,SemiAuto-8,2WD,Gasoline,small car,3,17,25,20,4,No
+CADILLAC CT6,2.0,4.0,SemiAuto-8,2WD,Gasoline,large car,5,22,30,25,5,No
+CADILLAC CT6,3.0,6.0,SemiAuto-8,4WD,Gasoline,large car,3,18,26,21,4,No
+CADILLAC CT6,3.6,6.0,SemiAuto-8,4WD,Gasoline,large car,5,18,27,21,4,No
+CADILLAC CTS,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22,30,25,5,No
+CADILLAC CTS,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,21,29,24,5,No
+CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,3,16,24,19,3,No
+CADILLAC CTS,3.6,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,20,30,24,5,No
+CADILLAC CTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,midsize car,5,19,27,22,4,No
+CADILLAC CTS-V,6.2,8.0,SemiAuto-8,2WD,Gasoline,midsize car,1,14,21,17,3,No
+CADILLAC Escalade,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14,23,17,3,No
+CADILLAC Escalade,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14,21,17,3,No
+CADILLAC XT5,3.6,6.0,SemiAuto-8,2WD,Gasoline,small SUV,5,19,26,22,4,No
+CADILLAC XT5,3.6,6.0,SemiAuto-8,4WD,Gasoline,small SUV,5,18,25,21,4,No
+CHEVROLET Camaro,2.0,4.0,Man-6,2WD,Gasoline,small car,5,20,30,23,5,No
+CHEVROLET Camaro,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,5,22,31,25,5,No
+CHEVROLET Camaro,3.6,6.0,Man-6,2WD,Gasoline,small car,5,16,28,20,4,No
+CHEVROLET Camaro,3.6,6.0,SemiAuto-8,2WD,Gasoline,small car,5,19,29,23,5,No
+CHEVROLET Camaro,6.2,8.0,Man-6,2WD,Gasoline,small car,1,14,20,16,2,No
+CHEVROLET Camaro,6.2,8.0,Man-6,2WD,Gasoline,small car,1,16,25,19,3,No
+CHEVROLET Camaro,6.2,8.0,SemiAuto-10,2WD,Gasoline,small car,1,13,21,15,2,No
+CHEVROLET Camaro,6.2,8.0,SemiAuto-8,2WD,Gasoline,small car,1,17,27,20,4,No
+CHEVROLET Colorado,2.5,4.0,Auto-6,2WD,Gasoline,pickup,5,20,26,22,4,No
+CHEVROLET Colorado,2.5,4.0,Auto-6,4WD,Gasoline,pickup,5,19,24,21,4,No
+CHEVROLET Colorado,2.5,4.0,Man-6,2WD,Gasoline,pickup,5,20,26,22,4,No
+CHEVROLET Colorado,2.8,4.0,Auto-6,2WD,Diesel,pickup,3,22,30,25,4,No
+CHEVROLET Colorado,2.8,4.0,Auto-6,4WD,Diesel,pickup,3,20,28,23,4,No
+CHEVROLET Colorado,3.6,6.0,Auto-8,2WD,Gasoline,pickup,5,18,25,20,4,No
+CHEVROLET Colorado,3.6,6.0,Auto-8,2WD,Gasoline,special purpose,5,15,15,15,2,No
+CHEVROLET Colorado,3.6,6.0,Auto-8,4WD,Gasoline,pickup,5,17,24,19,3,No
+CHEVROLET Colorado ZR2,2.8,4.0,Auto-6,4WD,Diesel,pickup,3,19,22,20,3,No
+CHEVROLET Colorado ZR2,3.6,6.0,Auto-8,4WD,Gasoline,pickup,5,16,18,17,3,No
+CHEVROLET Corvette,6.2,8.0,Man-7,2WD,Gasoline,small car,1,15,22,18,3,No
+CHEVROLET Corvette,6.2,8.0,Man-7,2WD,Gasoline,small car,1,16,25,19,3,No
+CHEVROLET Corvette,6.2,8.0,SemiAuto-8,2WD,Gasoline,small car,1,13,23,16,2,No
+CHEVROLET Corvette,6.2,8.0,SemiAuto-8,2WD,Gasoline,small car,1,15,25,18,3,No
+CHEVROLET Cruze,1.4,4.0,Man-6,2WD,Gasoline,small car,6,27,40,32,7,Yes
+CHEVROLET Cruze,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,6,29,40,33,8,Yes
+CHEVROLET Cruze,1.6,4.0,Auto-9,2WD,Diesel,small car,3,31,47,37,7,Yes
+CHEVROLET Cruze,1.6,4.0,Man-6,2WD,Diesel,small car,3,30,52,37,7,Yes
+CHEVROLET Cruze Hatchback,1.4,4.0,Man-6,2WD,Gasoline,midsize car,6,27,38,31,7,Yes
+CHEVROLET Cruze Hatchback,1.4,4.0,SemiAuto-6,2WD,Gasoline,midsize car,6,29,38,32,7,Yes
+CHEVROLET Cruze Hatchback,1.6,4.0,Auto-9,2WD,Diesel,midsize car,3,30,45,35,7,Yes
+CHEVROLET Cruze Hatchback,1.6,4.0,Man-6,2WD,Diesel,midsize car,3,29,48,35,7,Yes
+CHEVROLET Cruze Premier,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,6,29,39,33,8,Yes
+CHEVROLET Cruze Premier Hatchback,1.4,4.0,SemiAuto-6,2WD,Gasoline,midsize car,6,28,37,31,7,Yes
+CHEVROLET Equinox,1.5,4.0,Auto-6,2WD,Gasoline,small SUV,5,26,32,28,6,No
+CHEVROLET Equinox,1.5,4.0,Auto-6,4WD,Gasoline,small SUV,5,24,30,26,5,No
+CHEVROLET Equinox,1.6,4.0,Auto-6,2WD,Diesel,small SUV,3,28,39,32,6,No
+CHEVROLET Equinox,1.6,4.0,Auto-6,4WD,Diesel,small SUV,3,28,38,32,6,No
+CHEVROLET Equinox,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22,29,25,5,No
+CHEVROLET Equinox,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,22,28,24,5,No
+CHEVROLET Impala,2.5,4.0,SemiAuto-6,2WD,Gasoline,large car,3,22,30,25,5,No
+CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Ethanol/Gas,large car,5,14/18,20/28,16/22,4,No
+CHEVROLET Impala,3.6,6.0,SemiAuto-6,2WD,Gasoline,large car,7,19,28,22,4,No
+CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,6,27,36,30,7,Yes
+CHEVROLET Malibu,1.5,4.0,Auto-6,2WD,Gasoline,midsize car,7,27,36,30,7,Yes
+CHEVROLET Malibu,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,49,43,46,10,Yes
+CHEVROLET Malibu,2.0,4.0,Auto-9,2WD,Gasoline,midsize car,5,22,32,26,5,No
+CHEVROLET Silverado 15,4.3,6.0,Auto-6,2WD,Ethanol/Gas,pickup,5,12/18,16/24,14/20,4,No
+CHEVROLET Silverado 15,4.3,6.0,Auto-6,4WD,Ethanol/Gas,pickup,5,12/17,15/22,13/19,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Ethanol/Gas,pickup,3,12/16,17/23,14/19,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16,23,19,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15,20,17,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16,22,18,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15,19,17,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18,24,20,4,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16,22,18,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16,21,18,3,No
+CHEVROLET Silverado 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15,20,17,3,No
+CHEVROLET Silverado 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15,21,17,3,No
+CHEVROLET Silverado 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15,20,17,3,No
+CHEVROLET Sonic,1.4,4.0,Man-6,2WD,Gasoline,small car,3,28,37,32,7,Yes
+CHEVROLET Sonic,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,3,27,35,30,7,Yes
+CHEVROLET Sonic 5,1.4,4.0,Man-6,2WD,Gasoline,station wagon,3,28,37,32,7,Yes
+CHEVROLET Sonic 5,1.4,4.0,SemiAuto-6,2WD,Gasoline,station wagon,3,27,35,30,7,Yes
+CHEVROLET Suburban 1500,5.3,8.0,Auto-6,2WD,Ethanol/Gas,standard SUV,3,12/16,17/23,14/19,3,No
+CHEVROLET Suburban 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16,23,19,3,No
+CHEVROLET Suburban 1500,5.3,8.0,Auto-6,4WD,Ethanol/Gas,standard SUV,3,11/16,15/22,12/18,3,No
+CHEVROLET Suburban 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,15,22,18,3,No
+CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,2WD,Ethanol/Gas,standard SUV,3,12/16,17/23,14/19,3,No
+CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16,23,19,3,No
+CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,4WD,Ethanol/Gas,standard SUV,3,11/16,16/22,13/18,3,No
+CHEVROLET Tahoe 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,16,22,18,3,No
+CHEVROLET Tahoe 1500,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14,23,17,3,No
+CHEVROLET Tahoe 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14,22,17,3,No
+CHEVROLET Traverse,3.6,6.0,SemiAuto-9,2WD,Gasoline,standard SUV,5,18,27,21,4,No
+CHEVROLET Traverse,3.6,6.0,SemiAuto-9,4WD,Gasoline,standard SUV,5,17,25,20,4,No
+CHEVROLET Trax,1.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,24,30,27,6,No
+CHEVROLET Volt,1.5,4.0,CVT,2WD,Gasoline/Electricity,small car,3,43/113,42/99,42/106,10,Yes
+CHEVROLET Volt,1.5,4.0,CVT,2WD,Gasoline/Electricity,small car,7,43/113,42/99,42/106,10,Elite
+CHRYSLER 300,3.6,6.0,Auto-8,2WD,Ethanol/Gas,large car,3,14/19,22/30,17/23,5,No
+CHRYSLER 300,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19,30,23,5,No
+CHRYSLER 300,3.6,6.0,Auto-8,4WD,Ethanol/Gas,large car,3,13/18,20/27,16/21,4,No
+CHRYSLER 300,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18,27,21,4,No
+CHRYSLER 300,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16,25,19,3,No
+CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,18,28,22,4,No
+CHRYSLER Pacifica,3.6,6.0,Auto-9,2WD,Gasoline,minivan,3,19,28,22,4,No
+DODGE Challenger,3.6,6.0,Auto-8,2WD,Gasoline,midsize car,3,19,30,23,5,No
+DODGE Challenger,5.7,8.0,Auto-8,2WD,Gasoline,midsize car,3,16,25,19,3,No
+DODGE Challenger,5.7,8.0,Man-6,2WD,Gasoline,midsize car,1,15,23,18,3,No
+DODGE Challenger,6.4,8.0,Auto-8,2WD,Gasoline,midsize car,1,15,25,18,3,No
+DODGE Challenger,6.4,8.0,Man-6,2WD,Gasoline,midsize car,1,14,23,17,3,No
+DODGE Challenger GT,3.6,6.0,Auto-8,4WD,Gasoline,midsize car,3,18,27,21,4,No
+DODGE Challenger SRT,6.2,8.0,Auto-8,2WD,Gasoline,midsize car,1,13,22,16,2,No
+DODGE Challenger SRT,6.2,8.0,Man-6,2WD,Gasoline,midsize car,1,13,21,16,2,No
+DODGE Challenger SRT,6.4,8.0,Auto-8,2WD,Gasoline,midsize car,1,15,25,18,3,No
+DODGE Challenger SRT,6.4,8.0,Man-6,2WD,Gasoline,midsize car,1,14,23,17,3,No
+DODGE Charger,3.6,6.0,Auto-8,2WD,Ethanol/Gas,large car,3,14/19,22/30,17/23,5,No
+DODGE Charger,3.6,6.0,Auto-8,2WD,Gasoline,large car,3,19,30,23,5,No
+DODGE Charger,3.6,6.0,Auto-8,4WD,Ethanol/Gas,large car,3,13/18,20/27,16/21,4,No
+DODGE Charger,3.6,6.0,Auto-8,4WD,Gasoline,large car,3,18,27,21,4,No
+DODGE Charger,5.7,8.0,Auto-8,2WD,Gasoline,large car,3,16,25,19,3,No
+DODGE Charger,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15,25,18,3,No
+DODGE Charger SRT,6.2,8.0,Auto-8,2WD,Gasoline,large car,1,13,22,16,2,No
+DODGE Charger SRT,6.4,8.0,Auto-8,2WD,Gasoline,large car,1,15,25,18,3,No
+DODGE Durango,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19,26,21,4,No
+DODGE Durango,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18,25,21,4,No
+DODGE Durango,5.7,8.0,Auto-8,2WD,Gasoline,standard SUV,3,14,22,17,3,No
+DODGE Durango,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14,22,17,3,No
+DODGE Durango  SRT,6.4,8.0,Auto-8,4WD,Gasoline,standard SUV,1,13,19,15,2,No
+DODGE Journey,2.4,4.0,Auto-4,2WD,Gasoline,small SUV,3,19,25,21,4,No
+DODGE Journey,3.6,6.0,Auto-6,4WD,Gasoline,small SUV,3,16,24,19,3,No
+FERRARI 488 Spider,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,15,22,18,3,No
+FERRARI 488 Spider,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,16,22,18,3,No
+FERRARI 488 gtb,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,15,22,18,3,No
+FERRARI 488 gtb,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,16,22,18,3,No
+FERRARI 812 Superfast,6.5,12.0,AutoMan-7,2WD,Gasoline,small car,3,12,16,13,1,No
+FERRARI California T,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,16,23,18,3,No
+FERRARI California T,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,16,23,19,3,No
+FERRARI GTC4Lusso,6.3,12.0,AutoMan-7,4WD,Gasoline,small car,3,12,17,13,1,No
+FERRARI GTC4Lusso T,3.9,8.0,AutoMan-7,2WD,Gasoline,small car,3,15,21,17,3,No
+FIAT 500L,1.4,4.0,Auto-6,2WD,Gasoline,station wagon,3,22,30,25,5,No
+FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,19,25,21,4,No
+FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20,25,22,4,No
+FORD F150,2.7,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,20,26,22,4,No
+FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18,23,20,4,No
+FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,18,24,21,4,No
+FORD F150,2.7,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,19,24,21,4,No
+FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19,24,21,4,No
+FORD F150,3.3,6.0,SemiAuto-6,2WD,Gasoline,pickup,5,19,25,22,4,No
+FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,17,22,19,3,No
+FORD F150,3.3,6.0,SemiAuto-6,4WD,Gasoline,pickup,5,18,23,20,4,No
+FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17,21,19,3,No
+FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,17,22,19,3,No
+FORD F150,3.5,6.0,SemiAuto-10,2WD,Gasoline,pickup,5,18,25,21,4,No
+FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16,21,18,3,No
+FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,16,22,19,3,No
+FORD F150,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,5,17,23,19,3,No
+FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16,20,17,3,No
+FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,16,21,18,3,No
+FORD F150,5.0,8.0,SemiAuto-10,2WD,Gasoline,pickup,3,17,23,19,3,No
+FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,15,19,17,3,No
+FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16,20,17,3,No
+FORD F150,5.0,8.0,SemiAuto-10,4WD,Gasoline,pickup,3,16,22,18,3,No
+FORD F150 Raptor,3.5,6.0,SemiAuto-10,4WD,Gasoline,pickup,3,15,18,16,2,No
+FORD Flex,3.5,6.0,SemiAuto-6,2WD,Gasoline,standard SUV,3,16,23,19,3,No
+FORD Flex,3.5,6.0,SemiAuto-6,4WD,Gasoline,standard SUV,3,15,21,17,3,No
+FORD Flex,3.5,6.0,SemiAuto-6,4WD,Gasoline,standard SUV,3,16,22,18,3,No
+FORD Fusion,1.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,23,34,27,6,No
+FORD Fusion,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,21,31,25,5,No
+FORD Fusion,2.0,4.0,SemiAuto-6,4WD,Gasoline,midsize car,5,20,29,23,5,No
+FORD Fusion,2.5,4.0,Auto-6,2WD,Gasoline,midsize car,5,21,32,25,5,No
+FORD Fusion,2.7,6.0,SemiAuto-6,4WD,Gasoline,midsize car,5,17,26,20,4,No
+FORD Fusion Energi Plug-in Hybrid,2.0,4.0,CVT,2WD,Gasoline/Electricity,midsize car,7,43/102,41/91,42/97,10,Elite
+FORD Fusion Hybrid,2.0,4.0,CVT,2WD,Gasoline,midsize car,7,43,41,42,9,Yes
+FORD Transit Connect,2.5,4.0,SemiAuto-6,2WD,Gasoline,special purpose,3,19,27,22,4,No
+FORD Transit Connect,2.5,4.0,SemiAuto-6,2WD,Gasoline,special purpose,3,20,27,23,5,No
+GENESIS G80,3.3,6.0,SemiAuto-8,2WD,Gasoline,large car,3,17,25,20,4,No
+GENESIS G80,3.3,6.0,SemiAuto-8,4WD,Gasoline,large car,3,17,24,20,4,No
+GENESIS G80,3.8,6.0,SemiAuto-8,2WD,Gasoline,large car,5,19,27,22,4,No
+GENESIS G80,3.8,6.0,SemiAuto-8,4WD,Gasoline,large car,5,18,25,20,4,No
+GENESIS G80,5.0,8.0,SemiAuto-8,2WD,Gasoline,large car,5,16,24,19,3,No
+GENESIS G80,5.0,8.0,SemiAuto-8,4WD,Gasoline,large car,5,15,23,18,3,No
+GENESIS G90,3.3,6.0,SemiAuto-8,2WD,Gasoline,large car,3,17,24,20,4,No
+GENESIS G90,3.3,6.0,SemiAuto-8,4WD,Gasoline,large car,3,17,24,20,4,No
+GENESIS G90,5.0,8.0,SemiAuto-8,2WD,Gasoline,large car,5,16,24,19,3,No
+GENESIS G90,5.0,8.0,SemiAuto-8,4WD,Gasoline,large car,5,15,23,18,3,No
+GMC Acadia,2.5,4.0,Auto-6,2WD,Gasoline,standard SUV,3,21,26,23,5,No
+GMC Acadia,2.5,4.0,Auto-6,4WD,Gasoline,standard SUV,3,21,25,23,5,No
+GMC Acadia,3.6,6.0,Auto-6,2WD,Gasoline,standard SUV,5,18,25,21,4,No
+GMC Acadia,3.6,6.0,Auto-6,4WD,Gasoline,standard SUV,5,17,25,20,4,No
+GMC Canyon,2.5,4.0,Auto-6,2WD,Gasoline,pickup,5,20,26,22,4,No
+GMC Canyon,2.5,4.0,Auto-6,4WD,Gasoline,pickup,5,19,24,21,4,No
+GMC Canyon,2.5,4.0,Man-6,2WD,Gasoline,pickup,5,20,26,22,4,No
+GMC Canyon,2.8,4.0,Auto-6,2WD,Diesel,pickup,3,22,30,25,4,No
+GMC Canyon,2.8,4.0,Auto-6,4WD,Diesel,pickup,3,20,28,23,4,No
+GMC Canyon,3.6,6.0,Auto-8,2WD,Gasoline,pickup,5,18,25,20,4,No
+GMC Canyon,3.6,6.0,Auto-8,2WD,Gasoline,special purpose,5,15,15,15,2,No
+GMC Canyon,3.6,6.0,Auto-8,4WD,Gasoline,pickup,5,17,24,19,3,No
+GMC Sierra 15,4.3,6.0,Auto-6,2WD,Ethanol/Gas,pickup,5,12/18,16/24,14/20,4,No
+GMC Sierra 15,4.3,6.0,Auto-6,4WD,Ethanol/Gas,pickup,5,12/17,15/22,13/19,3,No
+GMC Sierra 15,5.3,8.0,Auto-6,2WD,Ethanol/Gas,pickup,3,12/16,17/23,14/19,3,No
+GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,pickup,3,16,23,19,3,No
+GMC Sierra 15,5.3,8.0,Auto-6,2WD,Gasoline,special purpose,3,15,20,17,3,No
+GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,pickup,3,16,22,18,3,No
+GMC Sierra 15,5.3,8.0,Auto-6,4WD,Gasoline,special purpose,3,15,19,17,3,No
+GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,18,24,20,4,No
+GMC Sierra 15,5.3,8.0,Auto-8,2WD,Gasoline,pickup,3,16,22,18,3,No
+GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,16,21,18,3,No
+GMC Sierra 15,5.3,8.0,Auto-8,4WD,Gasoline,pickup,3,15,20,17,3,No
+GMC Sierra 15,6.2,8.0,Auto-8,2WD,Gasoline,pickup,3,15,21,17,3,No
+GMC Sierra 15,6.2,8.0,Auto-8,4WD,Gasoline,pickup,3,15,20,17,3,No
+GMC Terrain,1.5,4.0,Auto-9,2WD,Gasoline,small SUV,5,26,30,28,6,No
+GMC Terrain,1.5,4.0,Auto-9,4WD,Gasoline,small SUV,5,24,28,26,5,No
+GMC Terrain,1.6,4.0,Auto-6,2WD,Diesel,small SUV,3,28,39,32,6,No
+GMC Terrain,1.6,4.0,Auto-6,4WD,Diesel,small SUV,3,28,38,32,6,No
+GMC Terrain,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22,28,24,5,No
+GMC Terrain,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,21,26,23,5,No
+GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Ethanol/Gas,standard SUV,3,12/16,17/23,14/19,3,No
+GMC Yukon 1500,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16,23,19,3,No
+GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Ethanol/Gas,standard SUV,3,11/16,16/22,13/18,3,No
+GMC Yukon 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,16,22,18,3,No
+GMC Yukon 1500,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14,23,17,3,No
+GMC Yukon 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14,22,17,3,No
+GMC Yukon 1500 XL,5.3,8.0,Auto-6,2WD,Ethanol/Gas,standard SUV,3,12/16,17/23,14/19,3,No
+GMC Yukon 1500 XL,5.3,8.0,Auto-6,2WD,Gasoline,standard SUV,3,16,23,19,3,No
+GMC Yukon 1500 XL,6.2,8.0,Auto-10,2WD,Gasoline,standard SUV,3,14,23,17,3,No
+GMC Yukon XL 1500,5.3,8.0,Auto-6,4WD,Ethanol/Gas,standard SUV,3,11/16,15/22,12/18,3,No
+GMC Yukon XL 1500,5.3,8.0,Auto-6,4WD,Gasoline,standard SUV,3,15,22,18,3,No
+GMC Yukon XL 1500,6.2,8.0,Auto-10,4WD,Gasoline,standard SUV,3,14,21,16,2,No
+HONDA Civic 5Dr,1.5,4.0,CVT,2WD,Gasoline,large car,7,31,40,34,8,Yes
+HONDA Civic 5Dr,1.5,4.0,CVT,2WD,Gasoline,large car,3,31,40,34,8,Yes
+HONDA Civic 5Dr,1.5,4.0,Man-6,2WD,Gasoline,large car,3,29,38,33,8,Yes
+HONDA Civic 5Dr,1.5,4.0,SCV-7,2WD,Gasoline,large car,7,30,36,32,7,Yes
+HONDA Civic 5Dr,1.5,4.0,SCV-7,2WD,Gasoline,large car,3,30,36,32,7,Yes
+HONDA Fit,1.5,4.0,CVT,2WD,Gasoline,station wagon,7,33,40,36,8,Yes
+HONDA Fit,1.5,4.0,Man-6,2WD,Gasoline,station wagon,3,29,36,31,7,Yes
+HONDA Fit,1.5,4.0,SCV-7,2WD,Gasoline,station wagon,7,31,36,33,8,Yes
+HONDA HR-V,1.8,4.0,CVT,2WD,Gasoline,station wagon,3,28,34,31,7,Yes
+HONDA HR-V,1.8,4.0,CVT,4WD,Gasoline,station wagon,3,27,31,29,6,No
+HONDA HR-V,1.8,4.0,Man-6,2WD,Gasoline,station wagon,3,25,33,28,6,No
+HONDA HR-V,1.8,4.0,SCV-7,2WD,Gasoline,station wagon,3,28,34,31,7,Yes
+HONDA HR-V,1.8,4.0,SCV-7,4WD,Gasoline,station wagon,3,27,31,29,6,No
+HONDA Ridgeline,3.5,6.0,Auto-6,2WD,Gasoline,pickup,3,19,26,22,4,No
+HONDA Ridgeline,3.5,6.0,Auto-6,4WD,Gasoline,pickup,3,18,25,21,4,No
+HYUNDAI Elantra,1.4,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,32,40,35,8,Yes
+HYUNDAI Elantra,1.6,4.0,AutoMan-7,2WD,Gasoline,midsize car,3,26,33,29,6,No
+HYUNDAI Elantra,1.6,4.0,Man-6,2WD,Gasoline,midsize car,3,22,30,25,5,No
+HYUNDAI Elantra,2.0,4.0,Man-6,2WD,Gasoline,midsize car,5,26,36,29,6,No
+HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28,37,32,7,Yes
+HYUNDAI Elantra,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,28,37,32,7,Yes
+HYUNDAI Elantra GT,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,3,26,32,28,6,No
+HYUNDAI Elantra GT,1.6,4.0,Man-6,2WD,Gasoline,large car,3,22,29,25,5,No
+HYUNDAI Elantra GT,2.0,4.0,Man-6,2WD,Gasoline,large car,3,23,31,26,5,No
+HYUNDAI Elantra GT,2.0,4.0,SemiAuto-6,2WD,Gasoline,large car,3,24,32,27,6,No
+HYUNDAI Elantra SE,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,29,38,33,8,Yes
+HYUNDAI Elantra SE,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,29,38,33,8,Yes
+HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18,25,21,4,No
+HYUNDAI Santa Fe,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18,24,20,4,No
+HYUNDAI Santa Fe Sport,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20,28,23,5,No
+HYUNDAI Santa Fe Sport,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19,26,22,4,No
+HYUNDAI Santa Fe Sport,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,21,27,24,5,No
+HYUNDAI Santa Fe Sport,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,20,26,22,4,No
+HYUNDAI Santa Fe Sport Ultimate,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20,27,23,5,No
+HYUNDAI Santa Fe Sport Ultimate,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19,24,21,4,No
+HYUNDAI Santa Fe Ultimate,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,17,23,20,4,No
+HYUNDAI Santa Fe Ultimate,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,17,22,19,3,No
+HYUNDAI Sonata,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,5,28,37,31,7,Yes
+HYUNDAI Sonata,2.0,4.0,SemiAuto-8,2WD,Gasoline,large car,5,23,32,26,5,No
+HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,25,35,28,6,No
+HYUNDAI Sonata,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,25,35,28,6,No
+HYUNDAI Sonata SE,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,25,36,29,6,No
+HYUNDAI Sonata SE,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,25,36,29,6,No
+INFINITI Q50,2.0,4.0,SemiAuto-7,2WD,Gasoline,midsize car,3,23,30,25,5,No
+INFINITI Q50,2.0,4.0,SemiAuto-7,4WD,Gasoline,midsize car,3,22,28,24,5,No
+INFINITI Q50,3.0,6.0,SemiAuto-7,2WD,Gasoline,midsize car,3,20,29,23,5,No
+INFINITI Q50,3.0,6.0,SemiAuto-7,4WD,Gasoline,midsize car,3,19,27,22,4,No
+INFINITI Q50 Hybrid,3.5,6.0,SemiAuto-7,2WD,Gasoline,small car,3,27,32,29,6,No
+INFINITI Q50 Hybrid,3.5,6.0,SemiAuto-7,4WD,Gasoline,small car,3,26,30,28,6,No
+INFINITI Q50 Red Sport,3.0,6.0,SemiAuto-7,2WD,Gasoline,midsize car,3,20,26,22,4,No
+INFINITI Q50 Red Sport,3.0,6.0,SemiAuto-7,4WD,Gasoline,midsize car,3,19,26,22,4,No
+INFINITI Q70,3.7,6.0,SemiAuto-7,2WD,Gasoline,midsize car,3,18,25,21,4,No
+INFINITI Q70,3.7,6.0,SemiAuto-7,4WD,Gasoline,midsize car,3,18,24,20,4,No
+INFINITI Q70,5.6,8.0,SemiAuto-7,2WD,Gasoline,midsize car,3,16,24,19,3,No
+INFINITI Q70,5.6,8.0,SemiAuto-7,4WD,Gasoline,midsize car,3,16,23,18,3,No
+INFINITI Q70 Hybrid,3.5,6.0,SemiAuto-7,2WD,Gasoline,midsize car,3,28,33,30,7,Yes
+INFINITI QX30,2.0,4.0,AutoMan-7,2WD,Gasoline,small car,3,24,33,27,6,No
+INFINITI QX30,2.0,4.0,AutoMan-7,4WD,Gasoline,small car,3,21,30,25,5,No
+JAGUAR F-Pace,2.0,4.0,SemiAuto-8,4WD,Diesel,small SUV,1,26,33,29,5,No
+JAGUAR F-Pace,2.0,4.0,SemiAuto-8,4WD,Gasoline,small SUV,7,22,27,24,5,No
+JAGUAR F-Pace,3.0,6.0,SemiAuto-8,4WD,Gasoline,small SUV,7,18,23,20,4,No
+JAGUAR F-Type Convertible,3.0,6.0,Man-6,2WD,Gasoline,small car,7,16,24,19,3,No
+JAGUAR F-Type Convertible,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,7,20,28,23,5,No
+JAGUAR F-Type Coupe,3.0,6.0,Man-6,2WD,Gasoline,small car,7,16,24,19,3,No
+JAGUAR F-Type Coupe,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,7,20,28,23,5,No
+JAGUAR F-Type R Convertible,5.0,8.0,SemiAuto-8,4WD,Gasoline,small car,3,15,23,18,3,No
+JAGUAR F-Type R Coupe,5.0,8.0,SemiAuto-8,4WD,Gasoline,small car,3,15,23,18,3,No
+JAGUAR F-Type S Convertible,3.0,6.0,Man-6,2WD,Gasoline,small car,7,15,24,18,3,No
+JAGUAR F-Type S Convertible,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,7,19,27,22,4,No
+JAGUAR F-Type S Convertible,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,7,18,26,21,4,No
+JAGUAR F-Type S Coupe,3.0,6.0,Man-6,2WD,Gasoline,small car,7,15,24,18,3,No
+JAGUAR F-Type S Coupe,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,7,19,27,22,4,No
+JAGUAR F-Type S Coupe,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,7,18,26,21,4,No
+JAGUAR XE,2.0,4.0,SemiAuto-8,2WD,Diesel,small car,1,32,42,36,7,No
+JAGUAR XE,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25,34,28,6,No
+JAGUAR XE,2.0,4.0,SemiAuto-8,4WD,Diesel,small car,1,30,40,34,7,No
+JAGUAR XE,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,7,24,34,28,6,No
+JAGUAR XE,3.0,6.0,SemiAuto-8,2WD,Gasoline,small car,7,21,30,24,5,No
+JAGUAR XE,3.0,6.0,SemiAuto-8,4WD,Gasoline,small car,7,20,29,23,5,No
+JAGUAR XF,2.0,4.0,SemiAuto-8,2WD,Diesel,midsize car,1,31,42,35,7,No
+JAGUAR XF,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,25,34,28,6,No
+JAGUAR XF,2.0,4.0,SemiAuto-8,4WD,Diesel,midsize car,1,30,40,34,7,No
+JAGUAR XF,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,7,23,33,27,6,No
+JAGUAR XF,3.0,6.0,SemiAuto-8,2WD,Gasoline,midsize car,7,20,29,23,5,No
+JAGUAR XF,3.0,6.0,SemiAuto-8,4WD,Gasoline,midsize car,7,20,28,23,5,No
+JEEP Cherokee,2.4,4.0,Auto-9,2WD,Ethanol/Gas,small SUV,3,15/21,22/30,18/25,5,No
+JEEP Cherokee,2.4,4.0,Auto-9,2WD,Gasoline,small SUV,7,21,30,25,5,No
+JEEP Cherokee,2.4,4.0,Auto-9,4WD,Ethanol/Gas,small SUV,3,14/21,21/28,17/23,5,No
+JEEP Cherokee,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,3,21,28,23,5,No
+JEEP Cherokee,3.2,6.0,Auto-9,2WD,Gasoline,small SUV,3,21,29,24,5,No
+JEEP Cherokee,3.2,6.0,Auto-9,4WD,Gasoline,small SUV,3,20,27,23,5,No
+JEEP Cherokee 4x4 Active Drive II,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,7,21,27,23,5,No
+JEEP Cherokee 4x4 Active Drive II,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,1,21,27,23,5,No
+JEEP Cherokee 4x4 Active Drive II,3.2,6.0,Auto-9,4WD,Gasoline,small SUV,3,18,26,21,4,No
+JEEP Cherokee Trailhawk,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,7,19,25,22,4,No
+JEEP Cherokee Trailhawk,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,1,19,25,22,4,No
+JEEP Cherokee Trailhawk,3.2,6.0,Auto-9,4WD,Gasoline,small SUV,3,18,24,21,4,No
+JEEP Compass,2.4,4.0,Auto-6,2WD,Gasoline,small SUV,7,22,31,25,5,No
+JEEP Compass,2.4,4.0,Auto-9,4WD,Gasoline,small SUV,7,22,30,25,5,No
+JEEP Compass,2.4,4.0,Man-6,2WD,Gasoline,small SUV,3,23,32,26,5,No
+JEEP Compass,2.4,4.0,Man-6,4WD,Gasoline,small SUV,3,22,31,25,5,No
+JEEP Grand Cherokee,3.6,6.0,Auto-8,2WD,Gasoline,standard SUV,5,19,26,21,4,No
+JEEP Grand Cherokee,3.6,6.0,Auto-8,4WD,Gasoline,standard SUV,5,18,25,21,4,No
+JEEP Grand Cherokee,5.7,8.0,Auto-8,4WD,Gasoline,standard SUV,3,14,22,17,3,No
+JEEP Grand Cherokee SRT,6.4,8.0,Auto-8,4WD,Gasoline,standard SUV,1,13,19,15,2,No
+KARMA Revero,2.0,4.0,Auto-1,2WD,Gasoline/Electricity,small car,1,20/59,21/61,20/60,10,No
+KIA Forte,2.0,4.0,Man-6,2WD,Gasoline,midsize car,5,25,34,28,6,No
+KIA Forte,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,29,37,32,7,Yes
+KIA Forte,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,5,29,37,32,7,Yes
+KIA Forte,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,25,33,28,6,No
+KIA Forte,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,3,25,33,28,6,No
+KIA Forte5,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,3,25,30,27,6,No
+KIA Forte5,1.6,4.0,Man-6,2WD,Gasoline,large car,3,23,29,25,5,No
+KIA Forte5,2.0,4.0,SemiAuto-6,2WD,Gasoline,large car,3,25,34,28,6,No
+KIA Optima,1.6,4.0,AutoMan-7,2WD,Gasoline,large car,3,28,37,31,7,Yes
+KIA Optima,2.0,4.0,SemiAuto-6,2WD,Gasoline,large car,3,22,31,25,5,No
+KIA Optima,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,24,34,28,6,No
+KIA Optima,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,24,34,28,6,No
+KIA Optima FE,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,7,25,36,29,6,No
+KIA Optima FE,2.4,4.0,SemiAuto-6,2WD,Gasoline,large car,5,25,36,29,6,No
+KIA Rio,1.6,4.0,Man-6,2WD,Gasoline,small car,3,29,37,32,7,Yes
+KIA Rio,1.6,4.0,SemiAuto-6,2WD,Gasoline,small car,3,28,37,32,7,Yes
+KIA Sedona,3.3,6.0,SemiAuto-6,2WD,Gasoline,minivan,3,18,24,20,4,No
+KIA Sedona SX,3.3,6.0,SemiAuto-6,2WD,Gasoline,minivan,3,18,25,21,4,No
+KIA Sedona SXL,3.3,6.0,SemiAuto-6,2WD,Gasoline,minivan,3,17,22,19,3,No
+KIA Sorento,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,20,27,23,5,No
+KIA Sorento,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,19,25,22,4,No
+KIA Sorento,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,21,28,24,5,No
+KIA Sorento,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21,25,22,4,No
+KIA Sorento,3.3,6.0,SemiAuto-6,2WD,Gasoline,small SUV,3,18,25,20,4,No
+KIA Sorento,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,17,23,19,3,No
+KIA Sorento FE,3.3,6.0,SemiAuto-6,4WD,Gasoline,small SUV,3,18,25,21,4,No
+KIA Soul,1.6,4.0,AutoMan-7,2WD,Gasoline,station wagon,3,26,31,28,6,No
+KIA Soul,1.6,4.0,Man-6,2WD,Gasoline,station wagon,3,24,30,27,6,No
+KIA Soul,1.6,4.0,SemiAuto-6,2WD,Gasoline,station wagon,3,25,30,27,6,No
+KIA Soul,2.0,4.0,SemiAuto-6,2WD,Gasoline,station wagon,7,25,30,27,6,No
+KIA Soul,2.0,4.0,SemiAuto-6,2WD,Gasoline,station wagon,5,25,30,27,6,No
+KIA Sportage,2.0,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,21,26,23,5,No
+KIA Sportage,2.0,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20,23,21,4,No
+KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,22,29,25,5,No
+KIA Sportage,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,22,29,25,5,No
+KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21,25,23,5,No
+KIA Sportage,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21,25,23,5,No
+KIA Sportage FE,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,7,23,30,26,5,No
+KIA Sportage FE,2.4,4.0,SemiAuto-6,2WD,Gasoline,small SUV,5,23,30,26,5,No
+KIA Sportage FE,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,7,21,25,22,4,No
+KIA Sportage FE,2.4,4.0,SemiAuto-6,4WD,Gasoline,small SUV,5,21,25,22,4,No
+LAMBORGHINI Aventador Coupe,6.5,12.0,AMS-7,4WD,Gasoline,small car,1,10,17,12,1,No
+LAMBORGHINI Aventador Roadster,6.5,12.0,AMS-7,4WD,Gasoline,small car,1,10,16,12,1,No
+LAMBORGHINI Aventador S Coupe,6.5,12.0,AMS-7,4WD,Gasoline,small car,1,10,17,12,1,No
+LAMBORGHINI Aventador S Roadster,6.5,12.0,AMS-7,4WD,Gasoline,small car,1,10,16,12,1,No
+LAND ROVER Range Rover Velar,2.0,4.0,SemiAuto-8,4WD,Diesel,small SUV,1,26,30,28,5,No
+LAND ROVER Range Rover Velar,2.0,4.0,SemiAuto-8,4WD,Gasoline,small SUV,7,21,27,23,5,No
+LAND ROVER Range Rover Velar,3.0,6.0,SemiAuto-8,4WD,Gasoline,small SUV,7,18,24,20,4,No
+LEXUS GX 460,4.6,8.0,SemiAuto-6,4WD,Gasoline,standard SUV,3,15,18,16,2,No
+LEXUS LC 500,5.0,8.0,SemiAuto-10,2WD,Gasoline,small car,5,16,26,19,3,No
+LEXUS LC 500h,3.5,6.0,SCV-10,2WD,Gasoline,small car,7,26,35,30,7,Yes
+LEXUS LX 570,5.7,8.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,18,15,2,No
+LINCOLN Continental,2.7,6.0,SemiAuto-6,2WD,Gasoline,large car,5,18,27,21,4,No
+LINCOLN Continental,2.7,6.0,SemiAuto-6,4WD,Gasoline,large car,5,17,25,20,4,No
+LINCOLN Continental,3.0,6.0,SemiAuto-6,4WD,Gasoline,large car,5,16,24,19,3,No
+LINCOLN Continental,3.7,6.0,SemiAuto-6,2WD,Gasoline,large car,3,17,26,20,4,No
+LINCOLN Continental,3.7,6.0,SemiAuto-6,4WD,Gasoline,large car,3,16,24,19,3,No
+LINCOLN MKT,3.5,6.0,SemiAuto-6,4WD,Gasoline,standard SUV,3,15,21,17,3,No
+LINCOLN MKT,3.7,6.0,SemiAuto-6,2WD,Gasoline,standard SUV,3,16,24,19,3,No
+LINCOLN MKT Livery,3.7,6.0,Auto-6,4WD,Gasoline,special purpose,3,16,23,18,3,No
+MASERATI Ghibli,3.0,6.0,Auto-8,2WD,Gasoline,midsize car,1,17,24,19,3,No
+MASERATI Ghibli S,3.0,6.0,Auto-8,2WD,Gasoline,midsize car,1,16,24,19,3,No
+MASERATI Ghibli S Q4,3.0,6.0,Auto-8,4WD,Gasoline,midsize car,1,16,24,19,3,No
+MASERATI Granturismo,4.7,8.0,Auto-6,2WD,Gasoline,small car,1,13,21,16,2,No
+MASERATI Granturismo Convertible,4.7,8.0,Auto-6,2WD,Gasoline,small car,1,13,20,15,2,No
+MASERATI Levante,3.0,8.0,Auto-8,4WD,Gasoline,standard SUV,1,14,20,16,2,No
+MASERATI Levante S,3.0,8.0,Auto-8,4WD,Gasoline,standard SUV,1,14,19,16,2,No
+MASERATI Quattroporte S,3.0,6.0,Auto-8,2WD,Gasoline,large car,1,16,23,18,3,No
+MASERATI Quattroporte S Q4,3.0,6.0,Auto-8,4WD,Gasoline,large car,1,16,23,18,3,No
+MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,27,37,31,7,Yes
+MAZDA 3,2.0,4.0,Man-6,2WD,Gasoline,small car,7,28,38,31,7,Yes
+MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,28,37,32,7,Yes
+MAZDA 3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,28,37,31,7,Yes
+MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,26,35,30,7,Yes
+MAZDA 3,2.5,4.0,SemiAuto-6,2WD,Gasoline,small car,7,27,36,30,7,Yes
+MAZDA CX-3,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,3,29,34,31,7,Yes
+MAZDA CX-3,2.0,4.0,SemiAuto-6,4WD,Gasoline,small car,3,27,32,29,6,No
+MAZDA CX-9,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,22,28,24,5,No
+MAZDA CX-9,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,20,26,23,5,No
+MERCEDES-BENZ AMG C63,4.0,8.0,Auto-7,2WD,Gasoline,small car,5,17,22,19,3,No
+MERCEDES-BENZ AMG C63,4.0,8.0,Auto-7,2WD,Gasoline,small car,5,17,23,19,3,No
+MERCEDES-BENZ AMG C63,4.0,8.0,Auto-7,2WD,Gasoline,small car,5,18,24,20,4,No
+MERCEDES-BENZ AMG C63 S,4.0,8.0,Auto-7,2WD,Gasoline,small car,5,17,22,19,3,No
+MERCEDES-BENZ AMG C63 S,4.0,8.0,Auto-7,2WD,Gasoline,small car,5,17,23,19,3,No
+MERCEDES-BENZ AMG C63 S,4.0,8.0,Auto-7,2WD,Gasoline,small car,5,18,24,20,4,No
+MERCEDES-BENZ AMG CLA45 4Matic,2.0,4.0,AutoMan-7,4WD,Gasoline,small car,3,23,30,26,5,No
+MERCEDES-BENZ AMG CLS63 4Matic,5.5,8.0,Auto-7,4WD,Gasoline,small car,3,16,22,18,3,No
+MERCEDES-BENZ AMG E63 S 4Matic,4.0,8.0,Auto-9,4WD,Gasoline,midsize car,5,15,22,18,3,No
+MERCEDES-BENZ AMG E63 S 4Matic,4.0,8.0,Auto-9,4WD,Gasoline,station wagon,5,16,22,18,3,No
+MERCEDES-BENZ AMG GLA45 4Matic,2.0,4.0,AutoMan-7,4WD,Gasoline,station wagon,3,22,28,25,5,No
+MERCEDES-BENZ AMG GLE 43 4Matic,3.0,6.0,Auto-9,4WD,Gasoline,standard SUV,3,17,22,19,3,No
+MERCEDES-BENZ AMG GLE 43 4Matic,3.0,6.0,Auto-9,4WD,Gasoline,standard SUV,3,17,23,19,3,No
+MERCEDES-BENZ AMG GLE63,5.5,8.0,Auto-7,4WD,Gasoline,standard SUV,3,14,18,15,2,No
+MERCEDES-BENZ AMG GLE63 S,5.5,8.0,Auto-7,4WD,Gasoline,standard SUV,3,14,18,15,2,No
+MERCEDES-BENZ AMG GLS63,5.5,8.0,Auto-7,4WD,Gasoline,standard SUV,3,13,18,15,2,No
+MERCEDES-BENZ AMG GT,4.0,8.0,AutoMan-7,2WD,Gasoline,small car,5,16,21,18,3,No
+MERCEDES-BENZ AMG GT,4.0,8.0,AutoMan-7,2WD,Gasoline,small car,5,16,22,18,3,No
+MERCEDES-BENZ AMG GT S,4.0,8.0,AutoMan-7,2WD,Gasoline,small car,5,16,22,18,3,No
+MERCEDES-BENZ AMG S63 4Matic,4.0,8.0,Auto-9,4WD,Gasoline,large car,5,17,26,20,4,No
+MERCEDES-BENZ AMG SL63,5.5,8.0,Auto-7,2WD,Gasoline,small car,3,16,25,19,3,No
+MERCEDES-BENZ AMG SL65,6.0,12.0,Auto-7,2WD,Gasoline,small car,3,13,22,16,2,No
+MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,22,29,25,5,No
+MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,22,30,25,5,No
+MERCEDES-BENZ C300,2.0,4.0,Auto-9,2WD,Gasoline,small car,5,24,33,27,6,No
+MERCEDES-BENZ C300 4Matic,2.0,4.0,Auto-9,4WD,Gasoline,small car,5,22,29,25,5,No
+MERCEDES-BENZ C300 4Matic,2.0,4.0,Auto-9,4WD,Gasoline,small car,5,22,30,25,5,No
+MERCEDES-BENZ C300 4Matic,2.0,4.0,Auto-9,4WD,Gasoline,small car,5,23,32,26,5,No
+MERCEDES-BENZ CLA250,2.0,4.0,AutoMan-7,2WD,Gasoline,small car,5,24,37,29,6,No
+MERCEDES-BENZ CLA250 4Matic,2.0,4.0,AutoMan-7,4WD,Ethanol/Gas,small car,5,17/24,24/32,20/27,6,No
+MERCEDES-BENZ CLA250 4Matic,2.0,4.0,AutoMan-7,4WD,Gasoline,small car,5,24,32,27,6,No
+MERCEDES-BENZ CLS550,4.7,8.0,Auto-9,2WD,Gasoline,small car,3,18,26,21,4,No
+MERCEDES-BENZ CLS550 4Matic,4.7,8.0,Auto-9,4WD,Gasoline,small car,3,17,25,20,4,No
+MERCEDES-BENZ E300,2.0,4.0,Auto-9,2WD,Gasoline,midsize car,5,22,30,25,5,No
+MERCEDES-BENZ E300 4Matic,2.0,4.0,Auto-9,4WD,Gasoline,midsize car,5,21,29,24,5,No
+MERCEDES-BENZ GLA 250,2.0,4.0,AutoMan-7,2WD,Gasoline,station wagon,5,24,33,27,6,No
+MERCEDES-BENZ GLA250 4Matic,2.0,4.0,AutoMan-7,4WD,Ethanol/Gas,small SUV,5,17/23,23/31,19/26,5,No
+MERCEDES-BENZ GLA250 4Matic,2.0,4.0,AutoMan-7,4WD,Gasoline,small SUV,5,23,31,26,5,No
+MERCEDES-BENZ GLC 300,2.0,4.0,Auto-9,2WD,Gasoline,small SUV,5,22,28,24,5,No
+MERCEDES-BENZ GLC 300 4Matic,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,21,28,24,5,No
+MERCEDES-BENZ GLC 300 4Matic,2.0,4.0,Auto-9,4WD,Gasoline,small SUV,5,22,27,24,5,No
+MERCEDES-BENZ GLE350,3.5,6.0,Auto-7,2WD,Gasoline,standard SUV,3,18,23,20,4,No
+MERCEDES-BENZ GLE350 4Matic,3.5,6.0,Auto-7,4WD,Ethanol/Gas,standard SUV,3,13/18,17/22,14/19,3,No
+MERCEDES-BENZ GLE350 4Matic,3.5,6.0,Auto-7,4WD,Gasoline,standard SUV,3,18,22,19,3,No
+MERCEDES-BENZ GLS450 4Matic,3.0,6.0,Auto-9,4WD,Gasoline,standard SUV,3,17,22,19,3,No
+MERCEDES-BENZ GLS550 4Matic,4.7,8.0,Auto-9,4WD,Gasoline,standard SUV,3,14,19,16,2,No
+MERCEDES-BENZ S560 4Matic,4.0,8.0,Auto-9,4WD,Gasoline,large car,5,17,27,21,4,No
+MERCEDES-BENZ S560 4Matic Maybach,4.0,8.0,Auto-9,4WD,Gasoline,large car,5,16,25,19,3,No
+MERCEDES-BENZ SL550,4.7,8.0,Auto-9,2WD,Gasoline,small car,3,17,25,20,4,No
+MERCEDES-BENZ SLC300,2.0,4.0,Auto-9,2WD,Gasoline,small car,3,25,32,27,6,No
+MINI Cooper Clubman,1.5,3.0,Man-6,2WD,Gasoline,midsize car,7,24,34,28,6,No
+MINI Cooper Clubman,1.5,3.0,SemiAuto-6,2WD,Gasoline,midsize car,7,24,32,27,6,No
+MINI Cooper Clubman All4,1.5,3.0,Man-6,4WD,Gasoline,midsize car,3,22,32,26,5,No
+MINI Cooper Clubman All4,1.5,3.0,SemiAuto-8,4WD,Gasoline,midsize car,3,23,31,26,5,No
+MINI Cooper Convertible,1.5,3.0,Man-6,2WD,Gasoline,small car,7,28,37,32,7,Yes
+MINI Cooper Convertible,1.5,3.0,SemiAuto-6,2WD,Gasoline,small car,7,27,35,30,7,Yes
+MINI Cooper Countryman,1.5,3.0,Man-6,2WD,Gasoline,midsize car,3,24,34,28,6,No
+MINI Cooper Countryman,1.5,3.0,SemiAuto-6,2WD,Gasoline,midsize car,3,24,32,27,6,No
+MINI Cooper Countryman All4,1.5,3.0,Man-6,4WD,Gasoline,midsize car,3,22,32,26,5,No
+MINI Cooper Countryman All4,1.5,3.0,SemiAuto-8,4WD,Gasoline,midsize car,3,23,30,25,5,No
+MINI Cooper Hardtop,1.5,3.0,Man-6,2WD,Gasoline,small car,7,28,37,32,7,Yes
+MINI Cooper Hardtop,1.5,3.0,Man-6,2WD,Gasoline,small car,7,28,38,32,7,Yes
+MINI Cooper Hardtop,1.5,3.0,SemiAuto-6,2WD,Gasoline,small car,7,27,35,30,7,Yes
+MINI Cooper S Clubman,2.0,4.0,Man-6,2WD,Gasoline,midsize car,7,22,31,25,5,No
+MINI Cooper S Clubman,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,23,32,27,6,No
+MINI Cooper S Clubman All4,2.0,4.0,Man-6,4WD,Gasoline,midsize car,7,21,30,24,5,No
+MINI Cooper S Clubman All4,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,7,22,31,26,5,No
+MINI Cooper S Convertible,2.0,4.0,Man-6,2WD,Gasoline,small car,7,23,32,26,5,No
+MINI Cooper S Convertible,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,25,33,28,6,No
+MINI Cooper S Countryman,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,23,32,27,6,No
+MINI Cooper S Countryman All4,2.0,4.0,Man-6,4WD,Gasoline,midsize car,7,21,31,24,5,No
+MINI Cooper S Countryman All4,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,7,22,31,26,5,No
+MINI Cooper S Hardtop,2.0,4.0,Man-6,2WD,Gasoline,small car,7,23,32,26,5,No
+MINI Cooper S Hardtop,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,25,32,28,6,No
+MINI Cooper SE Countryman All4,1.5,3.0,SemiAuto-6,4WD,Gasoline/Electricity,midsize car,3,28/63,27/66,27/65,9,Yes
+MINI JCW Countryman All4,2.0,4.0,Man-6,4WD,Gasoline,midsize car,3,20,29,24,5,No
+MINI JCW Countryman All4,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,3,22,30,25,5,No
+MINI John Cooper Works Clubman All4,2.0,4.0,Man-6,4WD,Gasoline,midsize car,3,21,31,24,5,No
+MINI John Cooper Works Clubman All4,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,3,23,31,26,5,No
+MINI John Cooper Works Convertible,2.0,4.0,Man-6,2WD,Gasoline,small car,3,22,31,25,5,No
+MINI John Cooper Works Convertible,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,3,25,33,28,6,No
+MINI John Cooper Works Hardtop,2.0,4.0,Man-6,2WD,Gasoline,small car,3,23,32,26,5,No
+MINI John Cooper Works Hardtop,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,3,25,32,28,6,No
+MITSUBISHI Mirage,1.2,3.0,CVT,2WD,Gasoline,small car,5,37,43,39,9,Yes
+MITSUBISHI Mirage,1.2,3.0,Man-5,2WD,Gasoline,small car,5,33,41,36,8,Yes
+MITSUBISHI Mirage G4,1.2,3.0,CVT,2WD,Gasoline,small car,5,35,41,37,8,Yes
+MITSUBISHI Mirage G4,1.2,3.0,Man-5,2WD,Gasoline,small car,5,33,40,35,8,Yes
+NISSAN 370Z,3.7,6.0,Man-6,2WD,Gasoline,small car,3,18,26,21,4,No
+NISSAN 370Z,3.7,6.0,SemiAuto-7,2WD,Gasoline,small car,3,19,26,22,4,No
+NISSAN 370Z Roadster,3.7,6.0,Man-6,2WD,Gasoline,small car,3,17,24,20,4,No
+NISSAN 370Z Roadster,3.7,6.0,SemiAuto-7,2WD,Gasoline,small car,3,18,25,21,4,No
+NISSAN Armada,5.6,8.0,SemiAuto-7,2WD,Gasoline,standard SUV,3,14,19,16,2,No
+NISSAN Armada,5.6,8.0,SemiAuto-7,4WD,Gasoline,standard SUV,3,13,18,15,2,No
+NISSAN Versa,1.6,4.0,Auto-4,2WD,Gasoline,small car,3,26,35,29,6,No
+NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,3,31,39,34,8,Yes
+NISSAN Versa,1.6,4.0,CVT,2WD,Gasoline,small car,5,31,39,34,8,Yes
+NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,3,27,36,30,7,Yes
+NISSAN Versa,1.6,4.0,Man-5,2WD,Gasoline,small car,5,27,36,30,7,Yes
+PORSCHE 911 Carrera,3.0,6.0,AMS-7,2WD,Gasoline,small car,1,22,30,25,5,No
+PORSCHE 911 Carrera,3.0,6.0,Man-7,2WD,Gasoline,small car,1,20,29,23,5,No
+PORSCHE 911 Carrera 4,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,22,28,24,5,No
+PORSCHE 911 Carrera 4,3.0,6.0,Man-7,4WD,Gasoline,small car,1,20,28,23,5,No
+PORSCHE 911 Carrera 4 Cabriolet,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,21,28,24,5,No
+PORSCHE 911 Carrera 4 Cabriolet,3.0,6.0,Man-7,4WD,Gasoline,small car,1,19,28,22,4,No
+PORSCHE 911 Carrera 4 GTS,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,20,26,22,4,No
+PORSCHE 911 Carrera 4 GTS,3.0,6.0,Man-7,4WD,Gasoline,small car,1,18,26,21,4,No
+PORSCHE 911 Carrera 4 GTS Cabriolet,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,20,25,22,4,No
+PORSCHE 911 Carrera 4 GTS Cabriolet,3.0,6.0,Man-7,4WD,Gasoline,small car,1,18,26,21,4,No
+PORSCHE 911 Carrera 4S,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,21,28,24,5,No
+PORSCHE 911 Carrera 4S,3.0,6.0,Man-7,4WD,Gasoline,small car,1,20,28,23,5,No
+PORSCHE 911 Carrera 4S Cabriolet,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,21,28,24,5,No
+PORSCHE 911 Carrera 4S Cabriolet,3.0,6.0,Man-7,4WD,Gasoline,small car,1,19,28,22,4,No
+PORSCHE 911 Carrera Cabriolet,3.0,6.0,AMS-7,2WD,Gasoline,small car,1,22,28,24,5,No
+PORSCHE 911 Carrera Cabriolet,3.0,6.0,Man-7,2WD,Gasoline,small car,1,20,29,23,5,No
+PORSCHE 911 Carrera GTS,3.0,6.0,AMS-7,2WD,Gasoline,small car,1,20,26,23,5,No
+PORSCHE 911 Carrera GTS,3.0,6.0,Man-7,2WD,Gasoline,small car,1,18,26,21,4,No
+PORSCHE 911 Carrera GTS Cabriolet,3.0,6.0,AMS-7,2WD,Gasoline,small car,1,20,26,22,4,No
+PORSCHE 911 Carrera GTS Cabriolet,3.0,6.0,Man-7,2WD,Gasoline,small car,1,18,26,21,4,No
+PORSCHE 911 Carrera S,3.0,6.0,AMS-7,2WD,Gasoline,small car,1,22,28,24,5,No
+PORSCHE 911 Carrera S,3.0,6.0,Man-7,2WD,Gasoline,small car,1,20,29,23,5,No
+PORSCHE 911 Carrera S Cabriolet,3.0,6.0,AMS-7,2WD,Gasoline,small car,1,22,28,24,5,No
+PORSCHE 911 Carrera S Cabriolet,3.0,6.0,Man-7,2WD,Gasoline,small car,1,20,28,23,5,No
+PORSCHE 911 Targa 4,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,22,28,24,5,No
+PORSCHE 911 Targa 4,3.0,6.0,Man-7,4WD,Gasoline,small car,1,19,28,22,4,No
+PORSCHE 911 Targa 4 GTS,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,20,26,22,4,No
+PORSCHE 911 Targa 4 GTS,3.0,6.0,Man-7,4WD,Gasoline,small car,1,18,26,21,4,No
+PORSCHE 911 Targa 4S,3.0,6.0,AMS-7,4WD,Gasoline,small car,1,21,27,24,5,No
+PORSCHE 911 Targa 4S,3.0,6.0,Man-7,4WD,Gasoline,small car,1,19,28,22,4,No
+PORSCHE 911 Turbo,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19,24,21,4,No
+PORSCHE 911 Turbo Cabriolet,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19,24,21,4,No
+PORSCHE 911 Turbo S,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19,24,21,4,No
+PORSCHE 911 Turbo S Cabriolet,3.8,6.0,AMS-7,4WD,Gasoline,small car,1,19,24,21,4,No
+PORSCHE Boxster,2.0,4.0,AMS-7,2WD,Gasoline,small car,3,22,29,25,5,No
+PORSCHE Boxster,2.0,4.0,Man-6,2WD,Gasoline,small car,3,21,28,24,5,No
+PORSCHE Boxster S,2.5,4.0,AMS-7,2WD,Gasoline,small car,3,21,28,24,5,No
+PORSCHE Boxster S,2.5,4.0,Man-6,2WD,Gasoline,small car,3,20,26,22,4,No
+PORSCHE Cayenne GTS,3.6,6.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,16,23,19,3,No
+PORSCHE Cayenne S,3.6,6.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,17,24,20,4,No
+PORSCHE Macan,2.0,4.0,AMS-7,4WD,Gasoline,small SUV,3,20,25,22,4,No
+PORSCHE Macan GTS,3.0,6.0,AMS-7,4WD,Gasoline,small SUV,3,17,23,19,3,No
+PORSCHE Macan S,3.0,6.0,AMS-7,4WD,Gasoline,small SUV,3,17,23,19,3,No
+PORSCHE Panamera,3.0,6.0,AMS-8,2WD,Gasoline,large car,5,21,28,24,5,No
+PORSCHE Panamera 4,3.0,6.0,AMS-8,4WD,Gasoline,large car,5,21,27,23,5,No
+PORSCHE Panamera 4 Executive,3.0,6.0,AMS-8,4WD,Gasoline,large car,5,21,27,23,5,No
+PORSCHE Panamera 4S,2.9,6.0,AMS-8,4WD,Gasoline,large car,5,21,28,23,5,No
+PORSCHE Panamera 4S Executive,2.9,6.0,AMS-8,4WD,Gasoline,large car,5,21,28,23,5,No
+PORSCHE Panamera Turbo,4.0,8.0,AMS-8,4WD,Gasoline,large car,3,18,25,21,4,No
+PORSCHE Panamera Turbo Executive,4.0,8.0,AMS-8,4WD,Gasoline,large car,3,18,25,21,4,No
+RAM 1500,5.7,8.0,Auto-6,4WD,Gasoline,pickup,3,13,18,14,1,No
+RAM 1500,5.7,8.0,Auto-8,2WD,Gasoline,pickup,3,15,22,17,3,No
+RAM 1500,5.7,8.0,Auto-8,4WD,Gasoline,pickup,3,15,21,17,3,No
+RAM Promaster City,2.4,4.0,Auto-9,2WD,Gasoline,special purpose,3,21,28,24,5,No
+SUBARU Crosstrek,2.0,4.0,Man-6,4WD,Gasoline,small SUV,7,23,29,25,5,No
+SUBARU Crosstrek,2.0,4.0,SCV-7,4WD,Gasoline,small SUV,7,27,33,29,6,No
+SUBARU Forester,2.0,4.0,SCV-8,4WD,Gasoline,small SUV,1,23,27,25,5,No
+SUBARU Forester,2.5,4.0,Man-6,4WD,Gasoline,small SUV,7,22,28,24,5,No
+SUBARU Forester,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,26,32,28,6,No
+SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,midsize car,7,24,32,27,6,No
+SUBARU Impreza,2.0,4.0,Man-5,4WD,Gasoline,station wagon,7,24,31,26,5,No
+SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,7,28,38,32,7,Yes
+SUBARU Impreza,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,7,28,37,31,7,Yes
+SUBARU Impreza Sport,2.0,4.0,Man-5,4WD,Gasoline,midsize car,7,23,31,26,5,No
+SUBARU Impreza Sport,2.0,4.0,Man-5,4WD,Gasoline,station wagon,7,22,30,25,5,No
+SUBARU Impreza Sport,2.0,4.0,SCV-7,4WD,Gasoline,midsize car,7,27,36,30,7,Yes
+SUBARU Impreza Sport,2.0,4.0,SCV-7,4WD,Gasoline,station wagon,7,27,35,30,7,Yes
+SUBARU Legacy,2.5,4.0,SCV-7,4WD,Gasoline,midsize car,7,25,34,29,6,No
+SUBARU Legacy,3.6,6.0,SCV-6,4WD,Gasoline,midsize car,3,20,28,23,5,No
+SUBARU Outback,2.5,4.0,SCV-7,4WD,Gasoline,small SUV,7,25,32,28,6,No
+SUBARU Outback,3.6,6.0,SCV-6,4WD,Gasoline,small SUV,3,20,27,22,4,No
+SUBARU WRX,2.0,4.0,Man-6,4WD,Gasoline,small car,1,21,27,23,5,No
+SUBARU WRX,2.0,4.0,SCV-8,4WD,Gasoline,small car,1,18,24,21,4,No
+SUBARU WRX,2.5,4.0,Man-6,4WD,Gasoline,small car,1,17,22,19,3,No
+TOYOTA 4Runner,4.0,6.0,SemiAuto-5,2WD,Gasoline,standard SUV,3,17,21,18,3,No
+TOYOTA 4Runner,4.0,6.0,SemiAuto-5,4WD,Gasoline,standard SUV,3,17,20,18,3,No
+TOYOTA Avalon,3.5,6.0,SemiAuto-6,2WD,Gasoline,midsize car,3,21,30,24,5,No
+TOYOTA Avalon Hybrid,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,7,40,39,40,9,Yes
+TOYOTA C-HR,2.0,4.0,SCV-7,2WD,Gasoline,small car,3,27,31,29,6,No
+TOYOTA Camry,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,29,41,34,8,Yes
+TOYOTA Camry,3.5,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22,33,26,5,No
+TOYOTA Camry Hybrid LE,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,7,51,53,52,10,Elite
+TOYOTA Camry Hybrid XLE/SE,2.5,4.0,SCV-6,2WD,Gasoline,midsize car,7,44,47,46,10,Elite
+TOYOTA Camry LE/SE,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,28,39,32,7,Yes
+TOYOTA Camry XLE/XSE,2.5,4.0,SemiAuto-8,2WD,Gasoline,midsize car,7,28,39,32,7,Yes
+TOYOTA Camry XSE,3.5,6.0,SemiAuto-8,2WD,Gasoline,midsize car,5,22,32,26,5,No
+TOYOTA Corolla,1.8,4.0,CVT,2WD,Gasoline,midsize car,3,28,36,32,7,Yes
+TOYOTA Corolla,1.8,4.0,Man-6,2WD,Gasoline,midsize car,3,27,35,30,7,Yes
+TOYOTA Corolla,1.8,4.0,SCV-7,2WD,Gasoline,midsize car,3,28,35,31,7,Yes
+TOYOTA Corolla LE Eco,1.8,4.0,CVT,2WD,Gasoline,midsize car,5,29,38,33,8,Yes
+TOYOTA Corolla LE Eco,1.8,4.0,CVT,2WD,Gasoline,midsize car,5,30,40,34,8,Yes
+TOYOTA Corolla iM,1.8,4.0,Man-6,2WD,Gasoline,midsize car,5,27,35,30,7,Yes
+TOYOTA Corolla iM,1.8,4.0,SCV-7,2WD,Gasoline,midsize car,5,28,36,31,7,Yes
+TOYOTA Land Cruiser,5.7,8.0,SemiAuto-8,4WD,Gasoline,standard SUV,3,13,18,15,2,No
+TOYOTA Prius c,1.5,4.0,CVT,2WD,Gasoline,small car,7,48,43,46,10,Elite
+TOYOTA RAV4,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,23,29,25,5,No
+TOYOTA RAV4,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,22,28,25,5,No
+TOYOTA RAV4 Hybrid,2.5,4.0,SCV-6,4WD,Gasoline,small SUV,7,34,30,32,7,Yes
+TOYOTA RAV4 LE/XLE,2.5,4.0,SemiAuto-6,2WD,Gasoline,small SUV,3,23,30,26,5,No
+TOYOTA RAV4 Limited,2.5,4.0,SemiAuto-6,4WD,Gasoline,small SUV,3,22,28,24,5,No
+TOYOTA Sequoia,5.7,8.0,SemiAuto-6,2WD,Gasoline,standard SUV,5,13,17,15,2,No
+TOYOTA Sequoia,5.7,8.0,SemiAuto-6,4WD,Gasoline,standard SUV,5,13,17,14,1,No
+TOYOTA Sequoia FFV,5.7,8.0,SemiAuto-6,4WD,Ethanol/Gas,standard SUV,5,9/13,13/17,10/14,1,No
+TOYOTA Tundra,4.6,8.0,SemiAuto-6,2WD,Gasoline,pickup,3,15,19,16,2,No
+TOYOTA Tundra,4.6,8.0,SemiAuto-6,4WD,Gasoline,pickup,3,14,18,16,2,No
+TOYOTA Tundra,5.7,8.0,SemiAuto-6,2WD,Gasoline,pickup,5,13,18,15,2,No
+TOYOTA Tundra,5.7,8.0,SemiAuto-6,4WD,Gasoline,pickup,5,13,17,14,1,No
+TOYOTA Tundra FFV,5.7,8.0,SemiAuto-6,4WD,Ethanol/Gas,pickup,5,9/13,12/17,10/15,2,No
+TOYOTA Yaris,1.5,4.0,Auto-4,2WD,Gasoline,small car,3,30,35,32,7,Yes
+TOYOTA Yaris,1.5,4.0,Man-5,2WD,Gasoline,small car,3,30,36,33,8,Yes
+VOLKSWAGEN Beetle,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,26,33,29,6,No
+VOLKSWAGEN Beetle Convertible,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,26,33,29,6,No
+VOLKSWAGEN Beetle Dune,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,26,34,29,6,No
+VOLKSWAGEN Beetle Dune Convertible,2.0,4.0,SemiAuto-6,2WD,Gasoline,small car,7,26,34,29,6,No
+VOLKSWAGEN Golf R,2.0,4.0,AMS-7,4WD,Gasoline,small car,3,22,29,25,5,No
+VOLKSWAGEN Golf R,2.0,4.0,Man-6,4WD,Gasoline,small car,3,21,29,24,5,No
+VOLKSWAGEN Jetta,1.4,4.0,Man-5,2WD,Gasoline,small car,3,28,40,33,8,Yes
+VOLKSWAGEN Jetta,1.4,4.0,SemiAuto-6,2WD,Gasoline,small car,5,28,38,32,7,Yes
+VOLKSWAGEN Jetta,1.8,4.0,SemiAuto-6,2WD,Gasoline,small car,7,24,33,28,6,No
+VOLKSWAGEN Jetta,2.0,4.0,AMS-6,2WD,Gasoline,small car,7,24,33,27,6,No
+VOLKSWAGEN Passat,2.0,4.0,SemiAuto-6,2WD,Gasoline,midsize car,7,25,36,29,6,No
+VOLKSWAGEN Tiguan,2.0,4.0,SemiAuto-8,2WD,Gasoline,small SUV,7,22,27,24,5,No
+VOLKSWAGEN Tiguan 4Motion,2.0,4.0,SemiAuto-8,4WD,Gasoline,small SUV,7,21,27,23,5,No
+VOLVO Atlas,3.6,6.0,SemiAuto-8,2WD,Gasoline,small SUV,5,18,25,20,4,No
+VOLVO Atlas 4Motion,3.6,6.0,SemiAuto-8,4WD,Gasoline,small SUV,5,17,23,19,3,No
+VOLVO S60,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,7,25,36,29,6,No
+VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22,32,26,5,No
+VOLVO S60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22,33,26,5,No
+VOLVO S60 CC,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22,30,25,5,No
+VOLVO S60 Inscription,2.0,4.0,SemiAuto-8,2WD,Gasoline,small car,3,25,36,29,6,No
+VOLVO S60 Inscription,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,3,22,33,26,5,No
+VOLVO S60 Polestar,2.0,4.0,SemiAuto-8,4WD,Gasoline,small car,1,20,27,22,4,No
+VOLVO S90,2.0,4.0,SemiAuto-8,2WD,Gasoline,midsize car,3,24,34,27,6,No
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,3,22,31,25,5,No
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,3,23,32,26,5,No
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,23,32,26,5,No
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline,midsize car,5,22,31,25,5,No
+VOLVO S90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,midsize car,7,26/70,33/72,29/71,10,Elite
+VOLVO V60,2.0,4.0,SemiAuto-8,2WD,Gasoline,station wagon,3,25,36,29,6,No
+VOLVO V60,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,3,22,32,26,5,No
+VOLVO V60,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,3,22,33,26,5,No
+VOLVO V60 CC,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,3,22,30,25,5,No
+VOLVO V60 Polestar,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,1,20,27,22,4,No
+VOLVO V90,2.0,4.0,SemiAuto-8,2WD,Gasoline,station wagon,5,24,34,27,6,No
+VOLVO V90,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,5,22,31,25,5,No
+VOLVO V90 CC,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,5,23,31,26,5,No
+VOLVO V90 CC,2.0,4.0,SemiAuto-8,4WD,Gasoline,station wagon,5,22,29,25,5,No
+VOLVO XC 60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small SUV,5,22,28,24,5,No
+VOLVO XC 60,2.0,4.0,SemiAuto-8,4WD,Gasoline,small SUV,5,21,27,23,5,No
+VOLVO XC 60,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,small SUV,7,26/60,28/58,26/59,10,Elite
+VOLVO XC 90,2.0,4.0,SemiAuto-8,2WD,Gasoline,standard SUV,5,22,29,25,5,No
+VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,22,28,24,5,No
+VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline,standard SUV,5,20,27,23,5,No
+VOLVO XC 90,2.0,4.0,SemiAuto-8,4WD,Gasoline/Electricity,standard SUV,7,26/63,30/61,27/62,10,Elite
