@@ -23,7 +23,14 @@ I complete the entire data analysis process, starting by posing a question and f
 
 
 
-## Part 2 -Practical Statistics 
+## Part 2 
+
+Project 2:  Investigate a dataset called TMDb movie data. I was provided a dataset reflecting data collected from an experiment. I used
+statistical techniques to answer questions about the data and report my conclusions and recommendations in a report.
+
+
+
+## Part 3 -Practical Statistics 
 
 Subjects Covered:
 * Probability
@@ -39,13 +46,12 @@ Subjects Covered:
 * Multiple Linear Regression
 * Logistic Regression
 
-
-Project 2: Investigate a dataset called TMDb movie data. I was provided a dataset reflecting data collected from an experiment. I used
-statistical techniques to answer questions about the data and report my conclusions and recommendations in a report.
-
+Project 3: Analyze A/B Test Results with company ab_data.csv to decide if the company should launch a new webpage or keep the old one. 
+Using Python, I gathered data from a variety of sources, assess its quality and tidiness, then clean it. I documented the wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
 
-## Part 3 - Data Extraction and Wrangling
+
+## Part 4 - Data Extraction and Wrangling
 
 Subjects Covered:
 * GATHERING DATA: 
@@ -61,12 +67,11 @@ Subjects Covered:
    * Clean data using Python and pandas
    * Test cleaning code visually and programmatically using Python
 
-Project 3 : Analyze A/B Test Results with company ab_data.csv to decide if the company should launch a new webpage or keep the old one. 
-Using Python, I gathered data from a variety of sources, assess its quality and tidiness, then clean it. I documented the wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
+Project 4 :  
 
 
 
-## Part 4 - Data Visualisation
+## Part 5 - Data Visualisation
 
 Subjects Covered:
 * Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales ) 
@@ -74,10 +79,10 @@ Subjects Covered:
 * Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
 * Explanatory Visulizations ( story telling with data ,  polish plots , create slide deck ) 
 
-Project 4: Wrangle and Analyze Data with clinic data 
+Project 5: Wrangle and Analyze Data with clinic data 
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
 
-Project 5: Communicate data finding with Ford Go bike data
+Project 6: Communicate data finding with Ford Go bike data
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
