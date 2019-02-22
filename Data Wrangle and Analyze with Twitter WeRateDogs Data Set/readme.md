@@ -1,9 +1,13 @@
 # Project Table of Contents:
-## Gathering Data
-## Assessing Data for this Project
-## Cleaning Data for this Project
-## Storing, Analyzing, and Visualizing Data for this Project
-## Reporting for this Project
+* Gathering Data
+* Assessing Data for this Project
+* Cleaning Data for this Project
+* Storing, Analyzing, and Visualizing Data for this Project
+* Reporting for this Project
+
+
+# Goal 
+Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
 
 # Introduction of Data Set
@@ -28,3 +32,5 @@ Each tweet's retweet count and favorite ("like") count at minimum, and any addit
 * requests
 * tweepy
 * json
+
+
