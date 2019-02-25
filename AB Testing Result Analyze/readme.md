@@ -8,7 +8,7 @@
 
 
 ## Outline of analysis
-Assessed the data, and made decisions about dealing with duplicates, and mismatched values.
-Performed probability computations, hypothesis testing and logistic regression on the data using Pandas, Numpy, and the statsmodels module in Python.
-Made recommendations backed by statistical inferences for deciding the web page version and documented limitations of the analysis
+* Assessed the data, and made decisions about dealing with duplicates, and mismatched values.
+* Performed probability computations, hypothesis testing and logistic regression on the data using Pandas, Numpy, and the statsmodels module in Python.
+* Made recommendations backed by statistical inferences for deciding the web page version and documented limitations of the analysis
 
